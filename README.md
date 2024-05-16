@@ -1,2 +1,2 @@
 The following project is a combination of the MyFirstAgent Project which is mostly a sandbox for me to look at the Semantic Kernel SDK and the AITravelAgent Project which is the main Exercise concluding the APL 2005 Module in Microsoft Learn. All of this is to practice my skills with Semantic Kernel as a way to upskill.
-The Repo name is MyFirst Agent so all Projects are underneath of that first folder.
+The Repo name is MyFirst Agent so all Projects are underneath of that first folder. Not the cleanest in the world but I wanted to separate out the different exercises while still maintaining the idea that these are my first attempts at creating AI Agents.
